@@ -1,6 +1,7 @@
 # todo_app
 
-A new Flutter project.
+enPiT春学期アプリケーション
+Flutterによる買い物補助アプリ
 
 ## Getting Started
 
